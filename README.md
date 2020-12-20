@@ -8,6 +8,7 @@ A flappy bird style game made using this tutorial - https://www.youtube.com/watc
 - [x] Keyboard control
 - [x] Game over message
 - [x] Final score
+- [x] Random pipe sizes 
 
 ## Things to add in the future
 
