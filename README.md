@@ -8,3 +8,9 @@ A flappy bird style game made using this tutorial - https://www.youtube.com/watc
 - [x] Keyboard control
 - [x] Game over message
 - [x] Final score
+
+## Things to add in the future
+
+* Fancier graphics
+* Mutiple levels
+* Controller support
