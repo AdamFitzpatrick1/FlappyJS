@@ -24,7 +24,7 @@ setInterval(function(){
         counter=0;
     }
 },10);
-
+counter = 0;
 function jump(){
     jumping = 1;
     let jumpCount = 0;
